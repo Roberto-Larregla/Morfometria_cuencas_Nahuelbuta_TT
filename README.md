@@ -1,4 +1,4 @@
-#Analisis Morfométrico de un rio invertido en la vertiente oriental de la cordillera de la costa (37°00'S)
+#Analisis morfométrico de un rio invertido en la vertiente oriental de la cordillera de la costa (37°00'S)
 
 El rio Pilkoykem nace desde los puntos mas altos de la cordillera de Nahuelbuta y pertenece a una subcuenca de la cuenca del rio Biobio. Contrario a lo que ocurre con la mayoria de los rios en Chile, los cuales tipicamente nacen en la cordillera principal y fluyen en sentido este a oeste hasta desembocar en el mar, el Pilkoykem posee la particularidad de que su sentido de flujo es opuesto. El origen de esta anomalia hidrografica podria encontrarse en el alzamiento de la cordillera de Nahuelbuta ocurrido durante el pleistoceno (~5-2Ma) gracias al cual rios como el Pilkoykem y Pellahuen, los cuales originalmente podrian haber atravesado transversalmente la cordiller de la costa fueron invertidos productor de la creación de una linea divisoria de aguas.
 
