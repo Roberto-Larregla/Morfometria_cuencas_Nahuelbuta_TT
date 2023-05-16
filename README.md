@@ -12,7 +12,7 @@ Las cuencas del rio Pilkoykem y el rio Cayucupil nacen desde los puntos mas alto
 
 Hipotesis: La red hidrográfica de la cuenca del Cayucupil y el Pilkoykem pueden haber registrado la dinamica de alzamiento tectónico del pliopleistoceno ocurrido en la cordillera de la costa a los 37°50'S.
 
-Objetivo general: Realizar una analisis morfométrico en la red hídrica de la cuenca del rio Picoiquen.
+Objetivo general: Realizar una analisis morfométrico en la red hídrica de la cuenca de ambos rios.
 
 Bibliografia
 
