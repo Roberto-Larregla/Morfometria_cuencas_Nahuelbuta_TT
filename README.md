@@ -14,5 +14,14 @@ Hipotesis: La red hidrográfica de la cuenca del Cayucupil y el Pilkoykem pueden
 
 Objetivo general: Realizar una analisis morfométrico en la red hídrica de la cuenca de ambos rios.
 
+Objetivos especificos:
+1) Elaborar perfiles longitudinales de la elevación de ambos rios
+2) Determinar el Ksn de ambas cuencas
+3) Determinar los knickpoints en cada cuenca
+
+#Metodologias
+
+Analisis morfométrico con Topotoolbox 2.
+
 Bibliografia
 
