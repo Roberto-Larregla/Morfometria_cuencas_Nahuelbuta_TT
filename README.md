@@ -10,7 +10,7 @@ La cordillera de Nahuelbuta corresponde a un bloque de basamento alzado pertenec
 
 Las cuencas del rio Pilkoykem y el rio Cayucupil nacen desde los puntos mas altos de Nahuelbuta y coinciden espacialmente con el eje de maxima elevación.
 
-![untitled2](https://github.com/Roberto-Larregla/morfometria-en-Nahuelbuta/assets/132492121/8dcb![Uploading untitled1.png…]()
+![untitled2](https://github.com/Roberto-Larregla/morfometria-en-Nahuelbuta/assets/132492121/8dcb![untitled1](https://github.com/Roberto-Larregla/morfometria-en-Nahuelbuta/assets/132492121/bfb5e737-57b3-4151-b5d8-a4f69f775697)
 171a-8761-48c9-84af-7783b5a83068)
 
 
@@ -27,9 +27,12 @@ Objetivos especificos:
 Analisis morfométrico con Topotoolbox 2.
 
 #Resultados
-![untitled3](https://github.com/Roberto-Larregla/morfometria-en-Nahuelbuta/assets/132492121/50c925c9-13d3-4501-b60c-8f593b859794)
 
-![untitled1](https://github.com/Roberto-Larregla/morfometts/132492121/172913f8-338b-4f29-8315-eda04a2c730a)
+![untitled3](https://github.com/Roberto-Larregla/morfometria-en-Nahuelbuta/assets/132492121/3b863c41-14b7-4a4b-bbf5-64c402b57a1a)
+
+![untitled1](https://github.com/Roberto-Larregla/morfometria-en-Nahuelbuta/assets/132492121/45058464-37c3-4bd5-a68f-017522b94794)
+
+
 
 Bibliografia
 
