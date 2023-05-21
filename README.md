@@ -9,17 +9,17 @@ La cordillera de Nahuelbuta corresponde a un bloque de basamento alzado pertenec
 
 Las cuencas del rio Pilkoykem y el rio Cayucupil nacen desde los puntos mas altos de Nahuelbuta y coinciden espacialmente con el eje de maxima elevación.
 
-Hipotesis: Las cuenca del Cayucupil y el Pilkoykem pueden haber registrado en su red hídrica el alzamiento tectónico del pliopleistoceno ocurrido en el bloque de Nahuelbuta.
+Hipotesis: Las red hídrica de las cuenca del Cayucupil y el Pilkoykem pueden haber registrado la historia del alzamiento tectónico del pliopleistoceno ocurrido en el bloque de Nahuelbuta.
 
 Objetivo general: Realizar una analisis morfométrico en la red hídrica de la cuenca de ambos rios.
 
 Objetivos especificos:
-1) Elaborar perfiles longitudinales de la elevación de ambos rios
-2) Determinar el Ksn de ambas cuencas
-3) Determinar los knickpoints en cada cuenca
+1) Identificar las distintas terrazas fluviales.
+2) Evaluar la respuesta de la red de drenaje al alzamiento.
 
 #Metodologias
-Analisis morfométrico con Topotoolbox 2.
+Elaboración de perfiles longitudinales
+
 
 #Resultados
 
